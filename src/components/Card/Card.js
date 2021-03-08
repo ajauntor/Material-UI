@@ -4,7 +4,7 @@ import React from 'react';
 const Card = () => {
     return (
         <div>
-            <Button variant="contained" color="secondary">Secondary</Button>
+            <Button style={{margin:"30px 60px"}} variant="contained" color="secondary">Material UI</Button>
         </div>
     );
 };
