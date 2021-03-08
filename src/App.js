@@ -1,11 +1,12 @@
 import React from 'react';
-import { Button } from '@material-ui/core';
+import Card from './components/Card/Card';
+
 
 
 function App() {
   return (
     <div>
-      <Button color="primary">Hello World</Button>
+      <Card></Card>
     </div>
   );
 }
